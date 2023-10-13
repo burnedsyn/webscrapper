@@ -1,0 +1,21 @@
+1. LangChain est une application de développement qui permet aux développeurs de créer des fonctionnalités personnalisées pour une application spécifique. Il permet de définir le périmètre de l'application, y compris les intégrations, les composants et les LLM nécessaires.
+
+2. LangChain permet de construire des fonctionnalités en combinant des templates de prompts, des chaînes et des agents. Ces fonctionnalités peuvent être utilisées pour répondre à des cas d'usage spécifiques et façonner le comportement de l'application.
+
+3. Pour utiliser LangChain, les développeurs doivent suivre les étapes suivantes :
+   a. Définir un cas d'usage spécifique pour l'application.
+   b. Construire les fonctionnalités en utilisant des templates de prompts, des chaînes et des agents.
+   c. Personnaliser les fonctionnalités en modifiant le code pour répondre aux cas d'usage spécifiques.
+   d. Ajouter un module de mémoire pour permettre à l'application de se souvenir du contexte des interactions avec les utilisateurs.
+
+4. Voici 10 idées de développement pour les débutants :
+   a. Créer un chatbot qui peut répondre aux questions fréquemment posées.
+   b. Développer une application de traduction automatique.
+   c. Créer un assistant vocal pour contrôler des appareils domestiques.
+   d. Construire un générateur de texte pour les écrivains.
+   e. Développer un système de recommandation pour les produits ou les films.
+   f. Créer un chatbot de service client pour répondre aux demandes des utilisateurs.
+   g. Construire un outil de correction grammaticale en temps réel.
+   h. Développer un générateur de résumés automatiques pour les articles.
+   i. Créer un assistant virtuel pour aider les étudiants à réviser.
+   j. Construire un outil de détection de spam pour les e-mails ou les commentaires.

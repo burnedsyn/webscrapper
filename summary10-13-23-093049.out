@@ -1,0 +1,15 @@
+1. Résumé de ce que c'est: LangChain est un outil de programmation Python qui vous permet de créer des applications d'IA. Il dispose d'un modèle d'invite de texte structuré qui peut être utilisé pour créer des applications.
+
+2. Résumé de ce que cela fait: LangChain vous permet de créer des applications d'IA en Python. Par exemple, vous pouvez utiliser LangChain pour construire un système de questions et réponses sur la littérature académique. Il nécessite généralement au moins une intégration comme OpenAI.
+
+3. Résumé de comment l'utiliser: Pour utiliser LangChain, vous devez d'abord installer Python. Ensuite, vous devez installer LangChain en utilisant la commande "pip install langchain". Vous devez également ajouter des intégrations, comme OpenAI. Pour ce faire, vous devez créer un compte sur le site Web d'OpenAI, récupérer la clé d'accès à l'API, installer le paquet Python d'OpenAI et saisir la clé d'accès aux API. Enfin, vous devez importer le template de prompt de LangChain.
+
+4. Fournir 10 idées de développement pour les débutants: Désolé, le contexte ne fournit pas suffisamment d'informations pour fournir 10 idées de développement pour les débutants.
+
+5. Fournir un how to complet sur l'installation de python et langchain: Pour installer Python et LangChain, suivez ces étapes:
+    - Installez une version récente de Python.
+    - Ouvrez le terminal Python et entrez la commande "pip install langchain" pour installer LangChain.
+    - Pour ajouter des intégrations, par exemple OpenAI, créez un compte sur le site Web d'OpenAI et récupérez la clé d'accès à l'API.
+    - Installez le paquet Python d'OpenAI en entrant la commande "pip install openai" dans le terminal Python.
+    - Saisissez la clé d'accès aux API en utilisant cette ligne de code : "llm = OpenAI(openai_api_key="...")".
+    - Importez le template de prompt de LangChain en utilisant le code approprié.

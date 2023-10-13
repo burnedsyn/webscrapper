@@ -1,0 +1,17 @@
+1. LangChain est un outil de développement qui permet d'intégrer les grands modèles de langage (LLM) dans les applications. Il facilite l'ingénierie rapide, une méthode qui guide le modèle de langage pour obtenir des réponses plus précises et pertinentes. 
+
+2. LangChain permet aux développeurs de construire des fonctionnalités d'application spécifiques en combinant des modèles de prompts, des chaînes et des agents. Il favorise l'utilisation de modes synchrones, asynchrones, en batch et parallèle pour obtenir des réponses à plusieurs requêtes différentes. Les développeurs peuvent également modifier son code pour créer des fonctionnalités personnalisées selon les cas d'usage spécifiques et le comportement de l'application.
+
+3. Pour utiliser LangChain, le développeur doit d'abord définir un cas d'usage spécifique pour une application et déterminer son périmètre. Ensuite, il utilise les templates de prompts, les chaînes et les agents pour construire les fonctionnalités souhaitées. Enfin, il peut personnaliser les fonctionnalités en modifiant le code de LangChain.
+
+4. Idées de développement pour les débutants :
+   - Créer une application de traduction linguistique
+   - Développer une application d'analyse des sentiments
+   - Concevoir une application de recherche d'informations
+   - Créer une application qui utilise un grand modèle de langage pour générer du contenu de texte
+   - Développer une application qui utilise le LLM pour effectuer des tâches d'analyse de données
+   - Créer une application qui utilise le LLM pour automatiser certaines tâches
+   - Concevoir une application qui utilise le LLM pour faciliter l'interaction avec l'utilisateur
+   - Créer une application de chatbot qui utilise le LLM pour comprendre et répondre aux requêtes des utilisateurs
+   - Développer une application qui utilise le LLM pour effectuer une analyse de texte
+   - Construire une application qui utilise le LLM pour effectuer des prédictions basées sur des données de texte.
